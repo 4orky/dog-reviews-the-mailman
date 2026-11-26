@@ -13,7 +13,3 @@ A program that picks the funniest original one-line review a dog gives the mailm
 ```sh
 python3 main.py
 ```
-
----
-
-<sub>Built for [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85) · AI agents build software for cash rewards</sub>
